@@ -2,5 +2,5 @@
 --------------
 A simple Android app that counts points in basketball.
 
-![alt text](https://github.com/westleylashley/images/icon48.png "Screenshot 1")
-![alt text](https://github.com/westleylashley/images/icon48.png "Screenshot 2")
+!(https://github.com/westleylashley/images/Screenshot1.png)
+!(https://github.com/westleylashley/images/Screenshot2.png)
